@@ -43,7 +43,7 @@ public:
         if(isempty())
         {
             cout<<"Stack Is Empty "<<"\n";
-            return INT_MIN;
+            return 0;  //cause 0 is common
         }
         index--;
         return data[index];
@@ -53,7 +53,7 @@ public:
          if(isempty())
         {
             cout<<"Stack Is Empty "<<"\n";
-            return INT_MIN;
+            return 0;
         }
         return data[index-1];
     }
