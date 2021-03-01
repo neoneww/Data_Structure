@@ -1,2 +1,2 @@
 # Data_Structure
-Solutions to problem i solved on Leetcode.com,binarysearch.com,practice.geeksforgeeks.org
+Solutions of the problem i solve on Leetcode.com,binarysearch.com and practice.geeksforgeeks.org
