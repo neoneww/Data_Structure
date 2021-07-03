@@ -1,4 +1,4 @@
-int solve(string text, string word0, string word1)
+int solve(string text, string word0,  string word1)
 {
     vector<string> pp;
     stringstream check1(text);
